@@ -11,99 +11,98 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 
 ## Week 1
 ### Solving a Simple Code Problem
-Problem: [Maximum Pairwise Product](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_1/maximum_pairwise_product)
-
+Problem: [Maximum Pairwise Product]() </br>
 * Python: Max time used: 0.14/5.00, max memory used: 26456064/536870912
 
 ## Week 2
-###  Prgramming Assignment: [Introduction](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_2/01_introduction_problems.pdf)
-Problem: [Small Fibonacci Number](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci) </br>
+###  Prgramming Assignment: Introduction
+Problem: Small Fibonacci Number </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_last_digit) </br>
+Problem: The Last Digit of a Large Fibonacci Number </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Greatest Common Divisor](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/gcd) </br>
+Problem: Greatest Common Divisor </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Least Common Multiple](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/lcm) </br>
+Problem: Least Common Multiple </br>
 
 * Python: Max time used: , max memory used: 
 
-Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_huge) </br>
+Advanced Problem: Huge Fibonacci Number modulo m </br>
 
 * Python: Max time used: , max memory used: 
 
-Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_sum_last_digit) </br>
+Advanced Problem: Last Digit of a Sum of Fibonacci Numbers </br>
 
 * Python: Max time used: , max memory used: 
 
-Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_partial_sum) </br>
+Advanced Problem: Last Digit of a Partial Sum of Fibonacci Numbers </br>
 
 * Python: Max time used: , max memory used: 
 
 ## Week 3
-###  Programming Assignment: [Greedy Algorithms](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_3/02_greedy_algorithms_problems.pdf)
-Problem: [Changing Money](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/change) </br>
+###  Programming Assignment: Greedy Algorithms
+Problem: Changing Money </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Fractional Knapsack](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/fractional_knapsack) </br>
+Problem: Fractional Knapsack </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Minimum Dot Product](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/dot_product) </br>
+Problem: Minimum Dot Product </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Covering Segments by Points](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/covering_segments) </br>
+Problem: Covering Segments by Points </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Pairwise Distinct Summands](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/different_summands) </br>
+Problem: Pairwise Distinct Summands </br>
 
 * Python: Max time used: , max memory used: 
 
 ## Week 4
-###  Programming Assignment: [Divide and Conquer](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_4/03_divide_and_conquer_problems.pdf)
-Problem: [Binary Search](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_4/03_divide_and_conquer_starter_files_20160804/binary_search) </br>
+###  Programming Assignment: Divide and Conquer
+Problem: Binary Search </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Majority Element](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_4/03_divide_and_conquer_starter_files_20160804/majority_element) </br>
+Problem: Majority Element </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [3-Way Partition](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_4/03_divide_and_conquer_starter_files_20160804/sorting) </br>
+Problem: 3-Way Partition </br>
 
 * Python: Max time used: , max memory used: 
 
-Advanced Problem: [Number of Inversions](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_4/03_divide_and_conquer_starter_files_20160804/inversions) </br>
+Advanced Problem: Number of Inversions </br>
 
 * Python: Max time used: , max memory used: 
 
-Advanced Problem: [Points and Segments](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_4/03_divide_and_conquer_starter_files_20160804/points_and_segments) </br>
+Advanced Problem: Points and Segments </br>
 
 * Python: Max time used: , max memory used: 
 
 ## Week 5
-### Programming Assignment: [Dynamic Programming](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_5/04_dynamic_programming_problems.pdf)
-Problem: [Primitive Calculator](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_5/04_dynamic_programming_starter_files/primitive_calculator) </br>
+### Programming Assignment: Dynamic Programming
+Problem: Primitive Calculator </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Take as Much Gold as Possible](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_5/04_dynamic_programming_starter_files/knapsack) </br>
+Problem: Take as Much Gold as Possible </br>
 
 * Python: Max time used: , max memory used: 
 
-Problem: [Compute the Edit Distance Between Two Strings](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_5/04_dynamic_programming_starter_files/edit_distance) </br>
+Problem: Compute the Edit Distance Between Two Strings </br>
 
 * Python:
 
-Problem: [Maximize the Value of an Arithmetic Expression]() </br>
+Problem: Maximize the Value of an Arithmetic Expression </br>
 
 * Python:
 
