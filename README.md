@@ -14,7 +14,7 @@ Problem: Small Fibonacci Number </br>
 
 Problem: The Last Digit of a Large Fibonacci Number </br>
 
-* Python: Max time used: , max memory used: 
+* Python: Max time used: 0.13/5.00, max memory used: 9117696/536870912
 
 Problem: Greatest Common Divisor </br>
 
