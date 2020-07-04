@@ -10,7 +10,7 @@ Problem: Maximum Pairwise Product
 ###  Prgramming Assignment: Introduction
 Problem: Small Fibonacci Number </br>
 
-* Python: Max time used: , max memory used: 
+* Python: Max time used: 0.01/5.00, max memory used: 9146368/536870912
 
 Problem: The Last Digit of a Large Fibonacci Number </br>
 
