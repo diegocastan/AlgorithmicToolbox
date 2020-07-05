@@ -18,11 +18,11 @@ Problem: The Last Digit of a Large Fibonacci Number </br>
 
 Problem: Greatest Common Divisor </br>
 
-* Python: Max time used: , max memory used: 
+* Python: Max time used: 0.01/5.00, max memory used: 9142272/536870912
 
 Problem: Least Common Multiple </br>
 
-* Python: Max time used: , max memory used: 
+* Python: Max time used: 0.02/5.00, max memory used: 9162752/536870912
 
 Advanced Problem: Huge Fibonacci Number modulo m </br>
 
