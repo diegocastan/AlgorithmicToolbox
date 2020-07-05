@@ -36,6 +36,10 @@ Advanced Problem: Last Digit of a Partial Sum of Fibonacci Numbers </br>
 
 * Python: Max time used: 0.01/5.00, max memory used: 9125888/536870912
 
+Advanced Problem: Last Digit of the Sum of Squares of Fibonacci Numbers </br>
+
+* Python: Max time used: 0.01/5.00, max memory used: 9125888/536870912
+
 ## Week 3
 ###  Programming Assignment: Greedy Algorithms
 Problem: Changing Money </br>
