@@ -50,9 +50,9 @@ Problem: Fractional Knapsack </br>
 
 * Python: Max time used: 0.01/5.00, max memory used: 9302016/671088640
 
-Problem: Minimum Dot Product </br>
+Problem: Car Fueling </br>
 
-* Python: Max time used: , max memory used: 
+* Python: Max time used: 0.01/5.00, max memory used: 9183232/536870912.
 
 Problem: Covering Segments by Points </br>
 
